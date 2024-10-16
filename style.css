@@ -1,0 +1,49 @@
+/*style untuk halaman form soal*/
+body {
+    font-family: 'algerian', 'Courier New', Courier, monospace;
+    background-color: lightpink; /* Latar belakang cream */
+    margin: 20px;
+
+   
+}
+h1 {
+    color: #1a5276;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+h2 {
+    color: #1a5276;
+    font-size: 1em;
+    margin-top: 20px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+.question-section {
+   background-color: rgb(249, 232, 212);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px; /* Membentuk oval */
+    box-shadow: 0 8px 16px rgb(143, 105, 105);
+}
+ol {
+    margin-left: 20px;
+    line-height: 1.8;
+    color: #787b80;
+}
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #34495e;
+    font-size: 1.2em;
+    padding: 10px 0;
+    background-color: #f39c12; /* Warna footer */
+    border-radius: 50px; /* Footer juga berbentuk oval */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   
+}
+</style>
